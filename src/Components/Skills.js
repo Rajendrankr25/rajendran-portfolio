@@ -82,7 +82,7 @@ function Skill() {
 
 function Skills({ data }) {
     return (
-        <div>
+        <div className='card'>
             <div className='tech-icons'>
                 <img src={data.icon} alt="icon" />
                 <span>{data.skill}</span>

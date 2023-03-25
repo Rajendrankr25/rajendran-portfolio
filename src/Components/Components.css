@@ -3,13 +3,8 @@
 }
 
 .home-container {
-    width: 100%;
     height: 90vh;
-}
-
-.home-sec1,
-.home-sec2 {
-    margin-top: 20%;
+    margin-top: 40px;
 }
 
 .home-sec2 {
@@ -21,9 +16,8 @@
 }
 
 .self-image {
-    width: 300px;
-    height: 350px;
-    border-radius: 15%;
+    max-width: 500px;
+    max-height: 400px;
 }
 
 .exp-container {
@@ -34,8 +28,6 @@
 }
 
 .tech-icons {
-    border: 2px dotted gray;
-    border-radius: 5px;
     padding: 5px;
     width: 150px;
     height: 60px;
@@ -74,14 +66,22 @@
     text-decoration: none;
 }
 
-@media(min-width:760px) {
-    .home-container {
-        display: grid;
-        grid-template-columns: 50% 50%;
-    }
+.about-container,
+.home-container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    gap: 1rem;
+}
 
-    .home-sec1,
-    .home-sec2 {
-        margin-top: 40%;
+.about-pic {
+    max-height: 250px;
+}
+
+@media(min-width:760px) {
+
+    .about-container,
+    .home-container {
+        grid-template-columns: 50% 50%;
     }
 }

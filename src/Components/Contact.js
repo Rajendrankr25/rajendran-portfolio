@@ -26,14 +26,14 @@ function Contact() {
                 </div><br />
                 <div className='contacts'>
                     <img src={lnIcon} alt="linkedin" width={'25px'} />
-                    <a href="https://www.linkedin.com/in/rajendran-ramasamy-9471785a/" target={'_blank'}><b>Linkedin/Rajendran-Ramasamy</b></a>
+                    <a href="https://www.linkedin.com/in/rajendran-ramasamy-9471785a/" target={'blank'}><b>Linkedin/Rajendran-Ramasamy</b></a>
                 </div><br />
                 <div className='contacts'>
                     <img src={gitIcon} alt="git" width={'25px'} />
                     <a href="https://github.com/Rajendrankr25" target={'blank'}><b>Github/Rajendran-Ramasamy</b></a>
                 </div><br />
                 <div>
-                    <button type="button" class="btn btn-dark">Download Resume</button>
+                    <button type="button" className="btn btn-dark">Download Resume</button>
                 </div><br /><br />
                 <div style={{ textAlign: "center" }}>
                     Developed by "Rajendran Ramasamy"

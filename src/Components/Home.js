@@ -8,7 +8,7 @@ function Home() {
             <div className='home-sec1'>
                 <h5>Hi there,</h5><br />
                 <h1>I'm Rajendran Ramasamy</h1><br />
-                <span>a passionate <b>Full Stack Developer...</b></span><br />
+                <span><b>Full Stack Developer...</b></span><br />
                 <hr />
                 <div className='home-btns'>
                     <button type="button" className="btn btn-warning">Contact Me</button>
