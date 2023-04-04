@@ -33,7 +33,9 @@ function Contact() {
                     <a href="https://github.com/Rajendrankr25" target={'blank'}><b>Github/Rajendran-Ramasamy</b></a>
                 </div><br />
                 <div>
-                    <button type="button" className="btn btn-dark">Download Resume</button>
+                    <a href="https://drive.google.com/file/d/1aSHTtF0AVPT7lTU4tIZU_U1kk0IvI4Ez/view?usp=sharing" target='blank'>
+                        <button type="button" className="btn btn-dark">Download Resume</button>
+                    </a>
                 </div><br /><br />
                 <div style={{ textAlign: "center" }}>
                     Developed by "Rajendran Ramasamy"
