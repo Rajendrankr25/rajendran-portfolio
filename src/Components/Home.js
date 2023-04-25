@@ -20,7 +20,7 @@ function Home() {
                     <div className='home-btns'>
                         <ContactModal />
                         {/* <button type="button" className="btn btn-warning">Contact Me</button> */}
-                        <a href="https://drive.google.com/file/d/1aSHTtF0AVPT7lTU4tIZU_U1kk0IvI4Ez/view?usp=sharing" target='blank'>
+                        <a href="https://drive.google.com/file/d/1msCSUbF_evr8xH1unOdRghqRiWxW3o00/view?usp=sharing" target='blank'>
                             <button type="button" className="btn btn-outline-warning">Download Resume</button>
                         </a>
                     </div>
