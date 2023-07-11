@@ -33,7 +33,7 @@ function Contact() {
                     <a href="https://github.com/Rajendrankr25" target={'blank'}><b>Github/Rajendran-Ramasamy</b></a>
                 </div><br />
                 <div>
-                    <a href="https://drive.google.com/file/d/1z4E6OAKK0JFCnGGRWeY_RmKb-SNYcr8T/view?usp=sharing" target='blank'>
+                    <a href="https://drive.google.com/file/d/1ykPLngywmacDvrjaC8s0zlcsKGaQ2zV_/view?usp=sharing" target='blank'>
                         <button type="button" className="btn btn-dark">Download Resume</button>
                     </a>
                 </div><br /><br />
